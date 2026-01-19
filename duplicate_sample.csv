@@ -1,0 +1,615 @@
+product_name,brand,root_domain,page_url,price
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Transparent-Black-Burst,Transparent-White-Satin,Vintage-White,Ziricote","[{'amount': 639.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 449.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Transparent-Black-Burst,Transparent-Purple-Burst,Ultra-Violet,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Transparent-Blue-Burst,Ultra-Violet-%28UV%29,Vintage-White,Ziricote","[{'amount': 1719.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Aqua,Scarlet-Burst,See~Thru-Black-%28STBLK%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,See~Thru-Cherry-Burst,Snowblind,Transparent-Black-Burst,Ziricote","[{'amount': 1899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Azure,Juice-Burst,Sea-Foam-Green-%28SFG%29/custitem_dexterity/Right-Handed","[{'amount': 749.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1599.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Blood-Moon/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Blood-Moon,Faded-Vintage-Sunburst,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Transparent-Black-Burst,Transparent-Purple-Burst,Ultra-Violet,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Ticket-to-My-Downfall-Pink,Transparent-Amber,Transparent-Black-Burst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-White-Satin-%28TWS%29,Transparent-Purple-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1419.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Trans-Blue-Burst,Transparent-Black-Burst,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Aged-Black-Satin,Transparent-White-Satin/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Aged-Black-Satin%2CAged-Black-Satin-%28ABSN%29%2CCrimson-Red-Burst%2CCrimson-Red-Burst-%28CRB%29,Ticket-To-My-Downfall-Pink.png,Transparent-White-Satin",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Sea-Foam-Green,Sea-Foam-Green-%28SFG%29,See-Thru-Blue-Burst,Trans-Purple-Burst-%28TPB%29,Ziricote","[{'amount': 749.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1069.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Super-Sonic-Blue,Ultra-Violet,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1399.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Spalted-Maple,Transparent-Sky-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Aqua,Sea-Foam-Green,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-%28TBB%29,Transparent-Sky-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2119.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Trans-Purple,Vintage-Sunburst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Super-Sonic-Blue,Transparent-Sky-Burst,Ultra-Violet,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Green-Reign/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Green-Reign,Spalted-Maple,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Ticket-to-My-Downfall-Pink,Transparent-Amber,Transparent-Purple-Burst,Ziricote","[{'amount': 1479.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Black-Burst-Satin,Transparent-Amber,Transparent-White-Satin,Ziricote","[{'amount': 1949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Atomic-Ink,Satin-Royal-Sapphire,Ziricote/custitem_dexterity/Right-Handed","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1399.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Purple-Burst-%28TPB%29,Transparent-Amber,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 1789.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Black-Burst,Transparent-Purple-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1549.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-White-Satin-%28TWS%29,Transparent-White-Satin,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Steele-Green,Trans-White-Satin-%28TWS%29,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-%28TBB%29,Transparent-Black-Burst,Ziricote","[{'amount': 1409.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 409.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Amber,Transparent-Purple-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1409.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst,Trans-Blue-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Transparent-Black-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 1409.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 409.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1859.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Ticket-to-My-Downfall-Pink,Vintage-Sunburst,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1429.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Transparent-Black-Burst,Transparent-Purple-Burst,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Transparent-Purple-Burst,Vintage-Red-%28VRED%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1149.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Trans-Blue-Burst,Transparent-Purple-Burst,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1789.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Trans-Blue-Burst,Transparent-Amber,Transparent-Purple-Burst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-White-Satin-%28TWS%29,Transparent-Purple-Burst,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ticket-to-My-Downfall-Pink,Trans-Purple,Vintage-Sunburst,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Steele-Green,Trans-Black-Burst-%28TBB%29,Trans-Blue-Burst,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Purple-Burst-%28TPB%29,Transparent-Amber,Transparent-Blue-Burst,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1839.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-Satin,Transparent-White-Satin,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote","[{'amount': 1949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Ultra-Violet,Ultra-Violet-%28UV%29,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Steele-Green,Transparent-Blue-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 1719.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Silver-Mountain,Trans-Purple-Burst-%28TPB%29,Transparent-White-Satin,Ziricote","[{'amount': 1399.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-White-Satin,Ultra-Violet-%28UV%29,Vintage-Sunburst-Pearl,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Trans-Purple,Vintage-Sunburst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Trans-Black-Burst-Satin,Trans-Blue-Burst,Transparent-Blue-Burst,Ziricote","[{'amount': 1569.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Super-Sonic-Blue,Transparent-Amber,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Transparent-Amber,Transparent-Purple-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 1499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2119.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Super-Sonic-Blue,Trans-Blue-Burst,Vintage-Sunburst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Azure,Satin-White,See-Thru-Blue-Burst/custitem_dexterity/Right-Handed","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1599.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Black-Burst,Vintage-Sunburst-Pearl,Vintage-White-%28VWHT%29,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Trans-Black-Burst,Ultra-Violet,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Steele-Green,Ticket-to-My-Downfall-Pink,Transparent-Purple-Burst,Ziricote",[]
+Guitar,,schecterguitars.com,https://www.schecterguitars.com/guitars/wylde-audio,"[{'amount': 1799.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,See~Thru-Cherry-Burst,Transparent-White-Satin,Ultra-Violet,Vintage-White,Ziricote","[{'amount': 569.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 169.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Aqua,Satin-See-Thru-Black,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1099.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Atomic-Frost,Cat%27s-Eye-Black-Burst/custitem_dexterity/Right-Handed",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Purple-Burst,Ultra-Violet,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1419.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Spalted-Maple,Transparent-Black-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Blood-Burst,Blood-Moon/custitem_dexterity/Right-Handed","[{'amount': 1499.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Amber,Ultra-Violet-%28UV%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-%28TBB%29,Trans-Blue-Burst,Transparent-Amber,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Satin-White-%28SWHT%29,Super-Sonic-Blue,Trans-Purple,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Atomic-Green,Charcoal,Inferno/custitem_dexterity/Right-Handed","[{'amount': 499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Trans-Black-Burst-%28TBB%29,Trans-White-Satin-%28TWS%29,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 1859.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Transparent-Black-Burst,Transparent-Blue-Burst,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 2299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 3289.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Black-Orange-Crackle,Grey-Ghost/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Black-Orange-Crackle,Grey-Ghost,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst","[{'amount': 1449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2079.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Trans-Blue-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 1409.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 409.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Green-Burst,Satin-Natural-Vintage-Burst,Ziricote","[{'amount': 849.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1399.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter Guitars,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Trans-White-Satin-%28TWS%29,Ultra-Violet,Vintage-White-%28VWHT%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Trans-Purple,Transparent-White-Satin,Vintage-Sunburst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Atomic-Green,Azure,Ziricote/custitem_dexterity/Right-Handed","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1599.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-Black-Burst-%28TBB%29,Transparent-Sky-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote","[{'amount': 1359.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 959.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Trans-White-Satin-%28TWS%29,Transparent-Purple-Burst,Transparent-White-Satin,Ziricote","[{'amount': 1949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Trans-White-Satin-%28TWS%29,Vintage-Sunburst-Pearl,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Black-Burst-Satin,Vintage-Red-%28VRED%29,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 499.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 349.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst,Transparent-Purple-Burst,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1419.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Sea-Foam-Green,Silver-Mountain,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Red-%28VRED%29,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1789.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Super-Sonic-Blue,Trans-Blue-Burst,Transparent-Purple-Burst,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Black-Burst,Transparent-Blue-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Sunburst,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Spalted-Maple,Transparent-Black-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,See~Thru-Blue-Burst,Transparent-Blue-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Super-Sonic-Blue,Trans-Blue-Burst,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 1499.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Black-Burst,Ultra-Violet-%28UV%29,Vintage-Blue-%28VBLU%29,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1149.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Trans-Black-Burst-%28TBB%29,Trans-White-Satin-%28TWS%29,Transparent-White-Satin,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1859.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ticket-to-My-Downfall-Pink,Trans-Purple,Trans-Purple-Burst-%28TPB%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Super-Sonic-Blue,Trans-Black-Burst-Satin,Transparent-Purple-Burst,Ziricote","[{'amount': 1789.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Trans-Purple-Burst-%28TPB%29,Transparent-Amber,Transparent-Black-Burst,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1839.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Steele-Green,Super-Sonic-Blue,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Super-Sonic-Blue,Trans-Purple,Trans-White-Satin-%28TWS%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,See-Thru-Blue-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-%28TBB%29,Trans-Purple,Transparent-Amber,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Metallic-Silver,Satin-Dark-Roast/custitem_dexterity/Right-Handed","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Green-Burst,Satin-Charcoal-Burst-with-Black-Racing-Stripe-Decal,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1399.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Purple-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Blue-%28VBLU%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Transparent-Black-Burst,Transparent-White-Satin,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Aged-Black-Satin/custitem_kd_guitarcolor_list/Aged-Black-Satin%2CAged-Black-Satin-%28ABSN%29%2CCrimson-Red-Burst%2CCrimson-Red-Burst-%28CRB%29,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-White-Satin",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-Satin,Trans-White-Satin-%28TWS%29,Ultra-Violet-%28UV%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Blue-Burst,Vintage-Sunburst,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Trans-Blue-Burst,Trans-Purple,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Natural-Satin/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Natural-Satin-Ebony,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-White-Satin",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Transparent-Amber,Transparent-Black-Burst,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1149.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Amber,Transparent-Blue-Burst,Ultra-Violet,Ziricote","[{'amount': 499.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Steele-Green,Transparent-Sky-Burst,Ziricote","[{'amount': 1149.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1619.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,See-Thru-Blue-Burst,Silver-Mountain,Steele-Green,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-White-Satin,Ultra-Violet-%28UV%29,Vintage-Sunburst-Pearl,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 1949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Ticket-to-My-Downfall-Pink,Trans-Purple,Transparent-Blue-Burst,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Super-Sonic-Blue,Ultra-Violet,Vintage-White,Ziricote","[{'amount': 499.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 160.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Trans-Purple,Transparent-Amber,Transparent-White-Satin,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Super-Sonic-Blue,Transparent-Black-Burst,Transparent-Blue-Burst,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1409.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Purple-Burst-%28TPB%29,Transparent-Sky-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Spalted-Maple,Transparent-White-Satin,Vintage-White,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Black-Pearl,Inferno,Satin-Royal-Sapphire/custitem_dexterity/Right-Handed","[{'amount': 1049.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Super-Sonic-Blue,Transparent-White-Satin,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Blue-Burst,Transparent-Amber,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1839.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Green-Reign,Inferno,Trans-Black-Burst-%28TBB%29","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1859.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Transparent-Black-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1719.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 1199.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,See-Thru-Blue-Burst,See~Thru-Blue-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Super-Sonic-Blue,Trans-Black-Burst,Trans-Purple-Burst-%28TPB%29,Ziricote","[{'amount': 1149.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1619.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Transparent-White-Satin,Vintage-Blue-%28VBLU%29,Vintage-Sunburst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Amber,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1149.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Super-Sonic-Blue,Trans-Purple-Burst-%28TPB%29,Vintage-White,Ziricote","[{'amount': 1999.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 1399.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Black-Burst-%28TBB%29,Transparent-Black-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 2119.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Azure,Satin-Black,Trans-Black-Burst-Satin/custitem_dexterity/Right-Handed","[{'amount': 499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Transparent-Amber,Vampyre-Red-Burst-Satin-%28VRBS%29,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,See~Thru-Cherry-Burst,Steele-Green,Trans-White-Satin-%28TWS%29,Ziricote","[{'amount': 499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,See~Thru-Cherry-Burst,Silver-Mountain,Trans-Blue-Burst,Ziricote","[{'amount': 1719.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 1199.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Transparent-Sky-Burst,Transparent-White-Satin,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-%28TBB%29,Trans-Blue-Burst,Vintage-Blue-%28VBLU%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Transparent-White-Satin,Ultra-Violet-%28UV%29,Vintage-Sunburst,Ziricote","[{'amount': 1949.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Purple,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 639.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 449.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Faded-Vintage-Sunburst,Green-Reign,Ivory",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Aged-Black-Satin/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Aged-Black-Satin%2CAged-Black-Satin-%28ABSN%29%2CCrimson-Red-Burst%2CCrimson-Red-Burst-%28CRB%29,See-Thru-Blue-Burst,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Purple-Burst-%28TPB%29,Transparent-Sky-Burst,Ultra-Violet,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Purple,Transparent-White-Satin,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Spalted-Maple,Transparent-Amber,Vintage-White,Ziricote","[{'amount': 1409.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Purple,Transparent-Amber,Transparent-Sky-Burst,Ziricote","[{'amount': 1839.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Atomic-Snow,Cat%27s-Eye-Black-Burst/custitem_dexterity/Right-Handed","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1599.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Ticket-to-My-Downfall-Pink,Trans-Black-Burst,Transparent-Purple-Burst,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ivory,Satin-Aqua,See-Thru-Blue-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Vintage-Pelham-Blue,Satin-White,Sea-Foam-Green-%28SFG%29,Transparent-Purple-Burst,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Purple,Transparent-White-Satin,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Cat%27s-Eye,Inferno,Satin-Royal-Sapphire/custitem_dexterity/Right-Handed","[{'amount': 2299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 3289.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Trans-Purple-Burst-%28TPB%29,Transparent-White-Satin,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1419.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Purple-%28STP%29,Satin-White,Silver-Burst-Pearl-%28SVBP%29,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Trans-Purple,Transparent-Amber,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Purple,Ultra-Violet-%28UV%29,Vintage-Sunburst,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Amber,Ultra-Violet-%28UV%29,Vintage-Red-%28VRED%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Blood-Burst/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Blood-Burst,Green-Reign,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1869.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Blue-Burst,Transparent-Sky-Burst,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1839.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Transparent-Black-Burst,Transparent-White-Satin,Vintage-White,Ziricote","[{'amount': 2719.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 1899.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Steele-Green,Transparent-Sky-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter Guitars,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Grey-Ghost,Ivory,Satin-Dark-Roast",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Black-Burst-Satin,Transparent-Black-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Ultra-Violet,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-White-Satin-%28TWS%29,Transparent-Black-Burst,Ultra-Violet-%28UV%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Amber,Ultra-Violet,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 1719.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Spalted-Maple,Transparent-Amber,Transparent-White-Satin,Ziricote","[{'amount': 1899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Super-Sonic-Blue,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1199.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Ticket-to-My-Downfall-Pink,Trans-Black-Burst-Satin,Transparent-Black-Burst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Ultra-Violet,Vintage-Blue-%28VBLU%29,Vintage-Sunburst,Ziricote","[{'amount': 399.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-White-Satin-%28TWS%29,Transparent-Purple-Burst,Transparent-Sky-Burst,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Azure,Ivory,Sea-Foam-Green",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Purple,Trans-Purple-Burst-%28TPB%29,Transparent-Black-Burst,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1409.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Ticket-to-My-Downfall-Pink,Trans-Blue-Burst,Transparent-Black-Burst,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Ticket-to-My-Downfall-Pink,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1199.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Transparent-Blue-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 3569.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Satin-Vintage-Pelham-Blue,Trans-Black-Burst-Satin,Trans-Purple,Ziricote","[{'amount': 559.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Transparent-Black-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Transparent-Black-Burst,Transparent-Blue-Burst,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 2299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 3289.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Black-Burst-Satin/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Red-Reign,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Trans-Black-Burst-Satin",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Purple,Ultra-Violet,Vintage-Sunburst,Ziricote","[{'amount': 499.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 349.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Black-Burst,Transparent-Purple-Burst,Vintage-Sunburst,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Ticket-to-My-Downfall-Pink,Transparent-Blue-Burst,Vintage-Sunburst,Ziricote","[{'amount': 399.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Spalted-Maple,Transparent-Blue-Burst,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1409.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,See~Thru-Cherry-Burst,Trans-Blue-Burst,Transparent-Black-Burst,Ziricote","[{'amount': 1349.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 949.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Green-Reign/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Green-Reign,See-Thru-Cherry-Burst,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,See~Thru-Blue-Burst,Silver-Burst-Pearl-%28SVBP%29,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1149.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Blue-Burst,Ultra-Violet,Vintage-Red-%28VRED%29,Vintage-White,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1399.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Aqua,Satin-Dark-Roast,Satin-Metallic-Light-Blue,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Transparent-Purple-Burst,Transparent-Sky-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Cat%27s-Eye-Black-Burst,Transparent-White-Satin/custitem_dexterity/Left-Handed,Right-Handed/custitem_kd_guitarcolor_list/Cat%27s-Eye-Black-Burst,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-White-Satin","[{'amount': 1599.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Black-Reign,Charcoal,Satin-See-Thru-Black/custitem_dexterity/Right-Handed","[{'amount': 299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1449.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter Guitars,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Purple-%28STP%29,Trans-Purple,Trans-Purple-Burst-%28TPB%29,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-Satin,Trans-White-Satin-%28TWS%29,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-Black-Burst,Ultra-Violet-%28UV%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 1099.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1549.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Metallic-Silver/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Metallic-Silver,Sea-Foam-Green,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ivory,Satin-Candy-Apple-Red,Trans-Purple",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ivory,Transparent-Blue-Burst,Vintage-White","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1149.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Trans-Purple,Transparent-Black-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Steele-Green,Transparent-Sky-Burst,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 1189.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1699.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Green-Reign/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Green-Reign,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Blue-Burst,Transparent-Purple-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Black-Burst,Transparent-Blue-Burst,Vintage-Sunburst-Pearl,Vintage-White,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Spalted-Maple,Transparent-White-Satin,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-%28TBB%29,Trans-Black-Burst-Satin,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst-%28TBB%29,Transparent-Amber,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1839.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Ticket-to-My-Downfall-Pink,Transparent-Black-Burst,Vintage-White,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Metallic-Light-Blue,Satin-See-Thru-Black,Trans-Purple,Ziricote","[{'amount': 299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Trans-Purple-Burst-%28TPB%29,Transparent-White-Satin,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Transparent-Amber,Transparent-White-Satin,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Blue-Burst,Vintage-Blue-%28VBLU%29,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Black-Burst-Satin,Ultra-Violet-%28UV%29,Vintage-Sunburst,Ziricote","[{'amount': 1150.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Blue-Burst,Transparent-Black-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ivory,Satin-Natural-Vintage-Burst,Satin-Purple","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1049.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Charcoal,Satin-Black-%28SBK%29,Snowblind/custitem_dexterity/Right-Handed","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-Blue-Burst,Transparent-Blue-Burst,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Purple,Transparent-Blue-Burst,Ultra-Violet-%28UV%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Black-Burst-Satin,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst,Transparent-Black-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1359.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 959.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Super-Sonic-Blue,Transparent-Sky-Burst,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1789.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Aqua,Vintage-Sunburst/custitem_dexterity/Right-Handed","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Transparent-Amber,Transparent-Blue-Burst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Black-Burst-Satin,Transparent-White-Satin,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Amber,Transparent-Blue-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Aqua,Satin-Black,Satin-Black-Open-Pore,Ziricote","[{'amount': 1449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2069.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Blue-Burst,Vintage-Blue-%28VBLU%29,Vintage-Sunburst,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Trans-Black-Burst,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Amber,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-White,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Transparent-Amber,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1839.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Spalted-Maple,Ultra-Violet-%28UV%29,Vintage-White,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Ultra-Violet,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Blue-%28VBLU%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Ticket-to-My-Downfall-Pink,Ultra-Violet,Ziricote","[{'amount': 1479.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Charcoal-Burst/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Charcoal-Burst,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Vintage-Sunburst-Pearl","[{'amount': 399.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Sea-Foam-Green,Silver-Mountain,Trans-Black-Burst-%28TBB%29,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 1049.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Inferno,Ultra-Violet/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Inferno,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst,Ultra-Violet","[{'amount': 1399.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-Black-Burst-Satin,Ultra-Violet,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1399.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Trans-White-Satin-%28TWS%29,Vintage-Red-%28VRED%29,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1789.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Amber,Ultra-Violet-%28UV%29,Vampyre-Red-Burst-Satin-%28VRBS%29,Walnut-Satin-%28WSN%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Natural-Vintage-Burst,Satin-Purple,Transparent-Purple-Burst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Super-Sonic-Blue,Transparent-Purple-Burst,Vintage-White,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Azure,Black-Cherry-Burst,Red-Reign/custitem_dexterity/Right-Handed","[{'amount': 1259.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1799.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Cat%27s-Eye,Ivory,Satin-Aqua/custitem_dexterity/Right-Handed","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1049.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Ultra-Violet-%28UV%29,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-White,Ziricote","[{'amount': 1149.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Trans-Black-Burst,Trans-Purple,Trans-Purple-Burst-%28TPB%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1399.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Super-Sonic-Blue,Transparent-Sky-Burst,Ziricote","[{'amount': 1409.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 409.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Blue-Burst,Vintage-Blue-%28VBLU%29,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Blue-Burst,Ultra-Violet-%28UV%29,Vintage-Sunburst,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Purple-%28STP%29,Satin-White,Trans-Purple-Burst-%28TPB%29,Transparent-Black-Burst,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Amber,Ultra-Violet-%28UV%29,Vintage-Red-%28VRED%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1859.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Green-Reign/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Charcoal-Burst,Green-Reign,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 999.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Green-Reign,Inferno,Satin-Natural-Vintage-Burst","[{'amount': 849.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Vintage-Pelham-Blue,Trans-Purple,Vintage-Sunburst-Pearl,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1189.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1699.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Super-Sonic-Blue,Transparent-Purple-Burst,Vintage-Sunburst,Ziricote","[{'amount': 639.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 190.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,See-Thru-Blue-Burst,Trans-Black-Burst-%28TBB%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Steele-Green,Trans-Blue-Burst,Trans-White-Satin-%28TWS%29,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst,Vintage-White",[]
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Transparent-White-Satin/custitem_dexterity/Left-Handed,Right-Handed/custitem_kd_guitarcolor_list/Azure,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-White-Satin","[{'amount': 1899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Charcoal,Green-Reign,Satin-See-Thru-Black/custitem_dexterity/Right-Handed","[{'amount': 549.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 789.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Super-Sonic-Blue,Transparent-Black-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Steele-Green,Trans-Black-Burst-Satin,Transparent-Blue-Burst,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-Purple,Transparent-Sky-Burst,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 639.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 449.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Purple-Burst,See~Thru-Cherry-Burst,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Atomic-Orange,Transparent-Black-Burst/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Atomic-Orange,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Black-Burst","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Transparent-Sky-Burst,Vintage-Sunburst,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Charcoal,Ivory,Satin-Black/custitem_dexterity/Right-Handed","[{'amount': 749.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1069.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Transparent-Purple-Burst,Vintage-Blue-%28VBLU%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 1499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2119.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Atomic-Coral,Scarlet-Burst/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Atomic-Coral,Scarlet-Burst,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Steele-Green,Transparent-Black-Burst,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 1899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Transparent-Sky-Burst,Ultra-Violet,Ziricote","[{'amount': 639.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 449.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Purple-%28STP%29,Satin-White,Ticket-to-My-Downfall-Pink,Trans-Purple-Burst-%28TPB%29,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Black-Burst-Satin,Vampyre-Red-Burst-Satin-%28VRBS%29,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 1499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2119.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Transparent-Amber,Vampyre-Red-Burst-Satin-%28VRBS%29,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Ultra-Violet-%28UV%29,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Ticket-to-My-Downfall-Pink,Vintage-Blue-%28VBLU%29,Vintage-White,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Steele-Green,Trans-White-Satin-%28TWS%29,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Black-Burst,Ultra-Violet-%28UV%29,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 3289.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Grey-Ghost,Satin-Aqua",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ultra-Violet,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Blue-%28VBLU%29,Vintage-White,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-Blue-Burst,Trans-Purple-Burst-%28TPB%29,Transparent-Amber,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1349.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Deep-Ocean-Blue,Trans-Blue-Burst/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Deep-Ocean-Blue,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Trans-Blue-Burst,Transparent-Purple-Burst","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Trans-Blue-Burst,Transparent-Sky-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1719.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Black-Burst-Satin,Transparent-Black-Burst,Transparent-Purple-Burst,Ziricote","[{'amount': 1839.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Silver-Mountain,Transparent-Blue-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Transparent-Blue-Burst,Transparent-Purple-Burst,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,https://www.schecterguitars.com/guitars/exclusive-models,"[{'amount': 749.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 899.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Trans-Blue-Burst,Transparent-Black-Burst,Transparent-Purple-Burst,Ziricote","[{'amount': 1359.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 959.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Black-Burst,Transparent-Amber,Transparent-White-Satin,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Sea-Foam-Green,Trans-Black-Burst,Transparent-Purple-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Ticket-to-My-Downfall-Pink,Trans-Black-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1789.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-Blue-Burst,Transparent-Blue-Burst,Transparent-White-Satin,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1839.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Trans-White-Satin-%28TWS%29,Transparent-Blue-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Natural-Satin/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Natural-Satin,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Blue-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Purple-Burst-%28TPB%29,Transparent-Purple-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1839.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Vintage-Sunburst,Vintage-White,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1199.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Amber,Ultra-Violet,Vintage-Sunburst,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 363.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Steele-Green,Super-Sonic-Blue,Transparent-Purple-Burst,Ziricote","[{'amount': 1499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2119.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Transparent-Purple-Burst,Transparent-Sky-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1569.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Trans-Black-Burst-%28TBB%29,Trans-Purple-Burst-%28TPB%29,Vintage-Blue-%28VBLU%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1449.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Black-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-White,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter Guitars,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Silver-Burst-Pearl-%28SVBP%29,Trans-Purple,Vintage-Sunburst,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Transparent-Purple-Burst,Transparent-Sky-Burst,Vintage-White,Ziricote","[{'amount': 1719.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Black-Cherry/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Black-Cherry,Deep-Ocean-Blue,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,See~Thru-Cherry-Burst,Transparent-Black-Burst,Ultra-Violet,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 400.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Vintage-Blue-%28VBLU%29,Vintage-Sunburst,Ziricote","[{'amount': 1409.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 409.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Black-Orange-Crackle/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Black-Orange-Crackle,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Amber,Transparent-Purple-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Inferno,Red-Reign,Ziricote/custitem_dexterity/Right-Handed","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Steele-Green,Trans-Blue-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Black-Burst-%28TBB%29,Trans-White-Satin-%28TWS%29,Transparent-Purple-Burst,Ziricote","[{'amount': 1499.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 1049.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Transparent-Blue-Burst,Transparent-Sky-Burst,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Trans-Purple,Transparent-Amber,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 3569.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Sky-Burst,Vintage-Red-%28VRED%29,Vintage-Sunburst-Pearl,Vintage-White,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Super-Sonic-Blue,Transparent-Sky-Burst,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Trans-Black-Burst,Transparent-Sky-Burst,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1409.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter Guitars,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Aqua,Sea-Foam-Green,See-Thru-Blue-Burst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 949.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Blood-Burst,Ivory,Red-Reign/custitem_dexterity/Right-Handed","[{'amount': 499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1599.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ivory,Red-Reign,Vintage-White","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1599.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Aqua,Trans-Black-Burst-%28TBB%29,Transparent-Black-Burst,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2299.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Transparent-Sky-Burst/custitem_dexterity/Right-Handed/custitem_kd_guitarcolor_list/Satin-Trans-Red-with-Black-Racing-Stripe-Decal,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Ticket-To-My-Downfall-Pink.png,Transparent-Purple-Burst,Transparent-Sky-Burst",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Sky-Burst,Vintage-Red-%28VRED%29,Vintage-Sunburst-Pearl,Vintage-White,Ziricote",[]
+Guitar,Schecter Guitars,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Metallic-White-%28MWHT%29,Trans-Purple,Ziricote",[]
+Guitar,Schecter Guitars,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-Trans-Purple-%28STP%29,Trans-Purple,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Sunburst,Ziricote","[{'amount': 1649.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Transparent-Black-Burst,Transparent-White-Satin,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 1899.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Black-Burst-Satin,Transparent-Amber,Transparent-Purple-Burst,Ziricote","[{'amount': 2499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 3569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,See~Thru-Blue-Burst,Snowblind,Trans-Blue-Burst,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Transparent-Black-Burst,Vintage-Sunburst-Pearl,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 2299.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 3289.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Black-Burst-Satin,Trans-Blue-Burst,Trans-Purple-Burst-%28TPB%29,Ultra-Violet,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Snowblind,Transparent-Sky-Burst,Vintage-Sunburst,Ziricote","[{'amount': 2499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 3569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Olympic-White,Sea-Foam-Green,Ticket-to-My-Downfall-Pink/custitem_dexterity/Left-Handed/custitem_kd_guitarcolor_list/Olympic-White,Sea-Foam-Green,Tickets-To-My-Downfall-Pink","[{'amount': 799.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1049.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Trans-Blue-Burst,Trans-Purple,Vintage-Sunburst,Ziricote","[{'amount': 499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,Schecter,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Purple-Burst-%28TPB%29,Transparent-Sky-Burst,Ultra-Violet,Ziricote",[]
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Transparent-Purple-Burst,Transparent-White-Satin,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 1949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Steele-Green,Transparent-Amber,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1719.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Ultra-Violet,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Sunburst,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 399.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Transparent-Amber,Transparent-Black-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1409.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,See~Thru-Black-%28STBLK%29,Transparent-White-Satin,Ultra-Violet,Ziricote","[{'amount': 499.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Charcoal-Burst,Satin-White/custitem_dexterity/Right-Handed","[{'amount': 399.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 569.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Trans-White-Satin-%28TWS%29,Transparent-Amber,Vintage-Sunburst-Pearl,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Purple,Transparent-Blue-Burst,Vintage-White-%28VWHT%29,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Transparent-Amber,Transparent-White-Satin,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 2769.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 1820.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Steele-Green,Trans-Black-Burst-Satin,Ultra-Violet,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1359.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Spalted-Maple,Vintage-Blue-%28VBLU%29,Vintage-Sunburst-Pearl,Walnut-Satin-%28WSN%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Blue-Burst,Trans-Purple,Vintage-White,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1149.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Sea-Foam-Green-%28SFG%29,See-Thru-Blue-Burst,Trans-White-Satin-%28TWS%29,Ziricote","[{'amount': 1199.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Steele-Green,Super-Sonic-Blue,Transparent-Blue-Burst,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 1349.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Trans-Purple,Transparent-Purple-Burst,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 949.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1099.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Steele-Green,Transparent-Purple-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1419.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Trans-Black-Burst,Vampyre-Red-Burst-Satin-%28VRBS%29,Vintage-Red-%28VRED%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Spalted-Maple,Super-Sonic-Blue,Transparent-Black-Burst,Transparent-Sky-Burst,Ziricote","[{'amount': 1299.0, 'currency': 'USD', 'type': 'max'}
+ {'amount': 400.0, 'currency': 'USD', 'type': 'min'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Super-Sonic-Blue,Trans-Purple-Burst-%28TPB%29,Ultra-Violet,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 1499.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2119.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Steele-Green,Trans-Purple,Vampyre-Red-Burst-Satin-%28VRBS%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1259.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Black-Pearl,Inferno,Transparent-Amber/custitem_dexterity/Right-Handed","[{'amount': 1049.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 2499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Snowblind,Trans-Black-Burst,Trans-Blue-Burst,Transparent-Amber,Ziricote","[{'amount': 1249.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1769.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Steele-Green,Super-Sonic-Blue,Transparent-Purple-Burst,Ultra-Violet-%28UV%29,Ziricote","[{'amount': 349.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 1499.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Burst-Pearl-%28SVBP%29,Transparent-Black-Burst,Vintage-Blue-%28VBLU%29,Vintage-Sunburst-Pearl,Vintage-White-%28VWHT%29,Ziricote","[{'amount': 449.0, 'currency': 'USD', 'type': 'min'}
+ {'amount': 639.0, 'currency': 'USD', 'type': 'max'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Scarlet-Burst,Silver-Mountain,Ticket-to-My-Downfall-Pink,Transparent-Blue-Burst,Ultra-Violet,Ziricote","[{'amount': 1419.0, 'currency': 'USD', 'type': 'exact'}]"
+Guitar,,schecterguitars.com,"https://www.schecterguitars.com/guitars/6-string/custitem_color_master_list/Satin-White,Sea-Foam-Green,Trans-Blue-Burst,Trans-White-Satin-%28TWS%29,Vintage-Sunburst,Ziricote","[{'amount': 999.0, 'currency': 'USD', 'type': 'exact'}]"

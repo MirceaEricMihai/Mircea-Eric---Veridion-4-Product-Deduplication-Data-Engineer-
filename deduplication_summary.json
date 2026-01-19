@@ -1,0 +1,8 @@
+{
+  "original_records": 21946,
+  "deduplicated_records": 21834,
+  "duplicates_removed": 112,
+  "deduplication_rate_percent": 0.51,
+  "unique_urls": 21398,
+  "method": "URL + First 20 characters of description"
+}

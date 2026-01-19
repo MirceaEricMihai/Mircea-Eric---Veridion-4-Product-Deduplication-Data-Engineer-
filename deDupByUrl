@@ -1,0 +1,334 @@
+import pandas as pd
+import numpy as np
+from difflib import SequenceMatcher
+
+print("=" * 70)
+print("PRODUCT DEDUPLICATION BY DESCRIPTION SIMILARITY")
+print("=" * 70)
+
+# Load the Parquet file
+print("\nLoading data...")
+df = pd.read_parquet('veridion_product_deduplication_challenge.snappy.parquet')
+print(f"✓ Loaded {len(df):,} records")
+print(f"✓ Columns: {len(df.columns)}")
+
+# Config
+SIMILARITY_THRESHOLD = 0.80  # 80% similarity threshold
+MIN_DESCRIPTION_LENGTH = 3   # Minimum length for valid description
+
+print("\n" + "=" * 70)
+print("CONFIGURATION")
+print("=" * 70)
+print(f"Similarity threshold: {SIMILARITY_THRESHOLD * 100}%")
+print(f"Minimum description length: {MIN_DESCRIPTION_LENGTH} characters")
+
+# Function to get description text
+def get_description(row):
+    """
+    Extract description text from the row.
+    Try multiple fields in order of preference.
+    """
+    # Try product_summary first
+    if 'product_summary' in row.index:
+        desc = row['product_summary']
+        if desc and isinstance(desc, str) and len(desc.strip()) >= MIN_DESCRIPTION_LENGTH:
+            return desc.strip()
+    
+    # Try description field
+    if 'description' in row.index:
+        desc = row['description']
+        if desc and isinstance(desc, str) and len(desc.strip()) >= MIN_DESCRIPTION_LENGTH:
+            return desc.strip()
+    
+    # Try product_title
+    if 'product_title' in row.index:
+        desc = row['product_title']
+        if desc and isinstance(desc, str) and len(desc.strip()) >= MIN_DESCRIPTION_LENGTH:
+            return desc.strip()
+    
+    # Fallback to product_name
+    if 'product_name' in row.index:
+        desc = row['product_name']
+        if desc and isinstance(desc, str) and len(desc.strip()) >= MIN_DESCRIPTION_LENGTH:
+            return desc.strip()
+    
+    return ""
+
+# Extract descriptions
+print("\nExtracting descriptions...")
+descriptions = []
+for idx, row in df.iterrows():
+    if idx > 0 and idx % 100 == 0:
+        print(f"  Processed {idx}/{len(df)} records...")
+    descriptions.append(get_description(row))
+
+print(f"  Processed {len(df)}/{len(df)} records... Done!")
+
+df['description_text'] = descriptions
+
+# Count valid descriptions
+valid_desc_count = sum(1 for d in descriptions if len(d) >= MIN_DESCRIPTION_LENGTH)
+print(f"\n✓ Found {valid_desc_count:,} records with valid descriptions")
+print(f"✓ Records without description: {len(df) - valid_desc_count:,}")
+
+# Function to get first 3 characters (normalized)
+def get_first_three(text):
+    """Get first 3 characters, normalized (lowercase, stripped)"""
+    if not text or not isinstance(text, str):
+        return "___"
+    clean = text.strip().lower()
+    if len(clean) < 3:
+        return clean.ljust(3, '_')
+    return clean[:3]
+
+# Add first-3-chars key
+print("\nCreating first-3-character keys...")
+df['first_three'] = df['description_text'].apply(get_first_three)
+
+# Count groups by first 3 characters
+first_three_groups = df.groupby('first_three').size()
+potential_duplicates = first_three_groups[first_three_groups > 1]
+
+print(f"\n✓ Unique first-3-char groups: {len(first_three_groups):,}")
+print(f"✓ Groups with potential duplicates: {len(potential_duplicates):,}")
+print(f"✓ Total records in duplicate groups: {potential_duplicates.sum():,}")
+
+# Function to calculate similarity between two strings
+def calculate_similarity(text1, text2):
+    """
+    Calculate similarity ratio between two strings.
+    Returns a value between 0 and 1 (1 = identical).
+    """
+    if not text1 or not text2:
+        return 0.0
+    
+    # Normalize
+    t1 = text1.strip().lower()
+    t2 = text2.strip().lower()
+    
+    if t1 == t2:
+        return 1.0
+    
+    # Use SequenceMatcher for character-level similarity
+    return SequenceMatcher(None, t1, t2).ratio()
+
+# Function to check if value is empty
+def is_empty(val):
+    """Check if a value is empty/null"""
+    if val is None:
+        return True
+    if isinstance(val, str) and val.strip() == '':
+        return True
+    if isinstance(val, list) and len(val) == 0:
+        return True
+    if isinstance(val, np.ndarray) and val.size == 0:
+        return True
+    try:
+        if not isinstance(val, (list, np.ndarray)) and pd.isna(val):
+            return True
+    except:
+        pass
+    return False
+
+# Function to merge two records
+def merge_records(record1, record2):
+    """
+    Merge two records, keeping the most complete information.
+    """
+    merged = record1.copy()
+    
+    for col in record2.index:
+        # Skip temporary columns
+        if col in ['description_text', 'first_three']:
+            continue
+        
+        # If record1 is empty but record2 has value, use record2's value
+        if is_empty(merged[col]) and not is_empty(record2[col]):
+            merged[col] = record2[col]
+    
+    return merged
+
+# Deduplication process
+print("\n" + "=" * 70)
+print("DEDUPLICATION PROCESS")
+print("=" * 70)
+print("Finding and merging similar descriptions...")
+
+# Track which records have been merged
+merged_indices = set()
+deduplicated_records = []
+total_merged = 0
+
+# Process each first-3-char group
+groups_processed = 0
+total_groups = len(first_three_groups)
+
+for first_three, group_df in df.groupby('first_three'):
+    groups_processed += 1
+    
+    if groups_processed % 50 == 0:
+        print(f"  Processed {groups_processed}/{total_groups} groups, merged {total_merged} records...")
+    
+    # Skip groups with only 1 record
+    if len(group_df) == 1:
+        idx = group_df.index[0]
+        if idx not in merged_indices:
+            deduplicated_records.append(group_df.iloc[0])
+            merged_indices.add(idx)
+        continue
+    
+    # For groups with multiple records, check similarity
+    group_indices = list(group_df.index)
+    
+    # Track which indices in this group have been merged
+    group_merged = set()
+    
+    for i in range(len(group_indices)):
+        idx_i = group_indices[i]
+        
+        # Skip if already merged
+        if idx_i in merged_indices:
+            continue
+        
+        record_i = group_df.loc[idx_i]
+        desc_i = record_i['description_text']
+        
+        # Start with this record as the base
+        merged_record = record_i.copy()
+        merged_count = 0
+        
+        # Compare with all other records in the group
+        for j in range(i + 1, len(group_indices)):
+            idx_j = group_indices[j]
+            
+            # Skip if already merged
+            if idx_j in merged_indices:
+                continue
+            
+            record_j = group_df.loc[idx_j]
+            desc_j = record_j['description_text']
+            
+            # Calculate similarity
+            similarity = calculate_similarity(desc_i, desc_j)
+            
+            # If similar enough, merge
+            if similarity >= SIMILARITY_THRESHOLD:
+                merged_record = merge_records(merged_record, record_j)
+                merged_indices.add(idx_j)
+                group_merged.add(idx_j)
+                merged_count += 1
+                total_merged += 1
+        
+        # Add the merged record (or original if no merges)
+        deduplicated_records.append(merged_record)
+        merged_indices.add(idx_i)
+        group_merged.add(idx_i)
+
+print(f"  Processed {groups_processed}/{total_groups} groups, merged {total_merged} records... Done!")
+
+# Create deduplicated DataFrame
+print("\nCreating deduplicated DataFrame...")
+deduplicated = pd.DataFrame(deduplicated_records)
+
+# Remove temporary columns
+temp_cols = ['description_text', 'first_three']
+deduplicated = deduplicated.drop(columns=[col for col in temp_cols if col in deduplicated.columns])
+deduplicated = deduplicated.reset_index(drop=True)
+
+# Results
+print("\n" + "=" * 70)
+print("DEDUPLICATION RESULTS")
+print("=" * 70)
+print(f"Original records:      {len(df):,}")
+print(f"Deduplicated records:  {len(deduplicated):,}")
+print(f"Duplicates removed:    {len(df) - len(deduplicated):,}")
+if len(df) > 0:
+    dedup_rate = ((len(df) - len(deduplicated)) / len(df)) * 100
+    print(f"Deduplication rate:    {dedup_rate:.2f}%")
+
+# Verification
+print("\n" + "=" * 70)
+print("VERIFICATION")
+print("=" * 70)
+print(f"Unique URLs in result: {deduplicated['page_url'].nunique()}")
+if 'brand' in deduplicated.columns:
+    print(f"Unique brands: {deduplicated['brand'].nunique()}")
+
+# Sample
+print("\n" + "=" * 70)
+print("SAMPLE OF DEDUPLICATED DATA (First 5 records)")
+print("=" * 70)
+sample_cols = ['product_name', 'brand', 'page_url'] if 'brand' in deduplicated.columns else ['product_name', 'page_url']
+print(deduplicated[sample_cols].head())
+
+# Save results
+print("\n" + "=" * 70)
+print("SAVING RESULTS")
+print("=" * 70)
+
+# Prepare data for export (convert complex columns to strings)
+print("Preparing data for export...")
+deduplicated_export = deduplicated.copy()
+
+complex_columns = []
+for col in deduplicated_export.columns:
+    if len(deduplicated_export) > 0:
+        sample_val = deduplicated_export[col].iloc[0]
+        if isinstance(sample_val, (list, np.ndarray)):
+            complex_columns.append(col)
+
+if complex_columns:
+    print(f"Converting {len(complex_columns)} complex columns to strings...")
+    for col in complex_columns:
+        deduplicated_export[col] = deduplicated_export[col].apply(
+            lambda x: str(x.tolist()) if isinstance(x, np.ndarray) else str(x)
+        )
+
+# Save as Parquet
+output_parquet = 'deduplicated_products.parquet'
+try:
+    deduplicated_export.to_parquet(output_parquet, index=False)
+    print(f"✓ Saved Parquet: {output_parquet}")
+except Exception as e:
+    print(f"⚠ Could not save Parquet: {e}")
+
+# Save as CSV
+output_csv = 'deduplicated_products.csv'
+deduplicated_export.to_csv(output_csv, index=False)
+print(f"✓ Saved CSV: {output_csv}")
+
+# Save as Pickle (preserves original data types)
+output_pickle = 'deduplicated_products.pkl'
+deduplicated.to_pickle(output_pickle)
+print(f"✓ Saved Pickle: {output_pickle}")
+
+# Create summary report
+summary = {
+    'original_records': int(len(df)),
+    'deduplicated_records': int(len(deduplicated)),
+    'duplicates_removed': int(len(df) - len(deduplicated)),
+    'deduplication_rate_percent': round(((len(df) - len(deduplicated)) / len(df)) * 100, 2) if len(df) > 0 else 0,
+    'unique_urls': int(deduplicated['page_url'].nunique()),
+    'deduplication_strategy': 'Description similarity (first 3 chars + character matching)',
+    'similarity_threshold': SIMILARITY_THRESHOLD,
+    'min_description_length': MIN_DESCRIPTION_LENGTH,
+    'columns': list(deduplicated.columns)
+}
+
+import json
+with open('deduplication_summary.json', 'w') as f:
+    json.dump(summary, f, indent=2)
+print(f"✓ Saved summary: deduplication_summary.json")
+
+print("\n" + "=" * 70)
+print("✓ DEDUPLICATION COMPLETE!")
+print("=" * 70)
+print(f"\nDeduplication Strategy:")
+print(f"  - First 3 characters must match (case-insensitive)")
+print(f"  - Similarity threshold: {SIMILARITY_THRESHOLD * 100}%")
+print(f"  - Used description fields for matching")
+print(f"\nOutput files:")
+print(f"  1. {output_parquet} (Parquet format)")
+print(f"  2. {output_csv} (CSV format - easy to view)")
+print(f"  3. {output_pickle} (Pickle format - preserves data types)")
+print(f"  4. deduplication_summary.json (statistics)")
